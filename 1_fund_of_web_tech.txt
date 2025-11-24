@@ -1,0 +1,75 @@
+MEAN Stack
+    >> M: MongoDB
+    >> E: ExpressJs
+    >> A: Angular
+    >> N: NodeJs
+
+
+Three Pillars
+    >> HTML (Hyper Text markup Language)
+    >> Css (Cascading Style Sheets)
+    >> JS (Java Script)
+
+MEAN, MERN, JAVA FULL Stack
+
+Web Dev 
+    >>Building/Developers Team
+    >> Testing Team (Manual Testers/Automated Testers)
+    >> Hosting Team (DevOps Team)
+    >>Maintance Team/Support Team
+
+SDLC(Software Development life cycle):
+    >> WaterFall Model
+    >> Agile Model
+    >> Sprial Model
+    >> Iterative Model
+    >> Incremental Model
+    >> V Shaped Model
+    >> RAD (Rapid Application Development) Model
+
+URL (Uniform Resource Locator)
+    https://www.instagram.com/
+    https://education.ashutosh.edu/fullstack
+
+    https: Protcol
+    education: Sub-Domain
+    .edu: TLD (Top Level Domain)
+    fullstack: Path/Location
+    ashutosh: Server/Domain Name
+
+Protcol
+    >> Set of rules/instructions
+        http   : Hyper Text Transfer Protcol
+        https  : Hyper Text Transfer Protcol Secure
+        tcp    : Transmission control Protcol
+        udp    : User Datagram Protcol
+        smtp   : Simple Mail Transfer Protcol
+        ftp    : File Transfer Protcol
+        ip     : Internet Protcol
+
+            >> Client/Web page ---------(uName & uPas) ------------> Instagram Server
+            >> SSL (Secure socket Layer) Certification
+
+
+Server/Domain Name : 
+    >> Unique Identifier
+        >> Eg: Google
+
+
+Sub Domain Name:
+    >> Gmeet
+    >> Gmap
+    >> Gdrive
+    >> Gmail
+    >> Gphotos
+    >> Gfile
+    >> Gchrome
+    >> Gpay
+    >> Gcalandar
+
+TLD (Top Level Domain):
+    Amazon.in (India)
+    Amazon.com (Commercial)
+    Amazon.edu (education)
+    Amazon.org (Organisation)
+    Amazon.uk  (unided Kingdom)
